@@ -1,0 +1,3 @@
+[submodule "scantobim"]
+	path = scantobim
+	url = https://github.com/THUCBIMS/scantobim.thucbims.github.io.git
