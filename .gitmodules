@@ -1,3 +1,6 @@
 [submodule "scantobim"]
 	path = scantobim
 	url = https://github.com/THUCBIMS/scantobim.thucbims.github.io.git
+[submodule "bimnet"]
+	path = bimnet
+	url = https://github.com/THUCBIMS/bimnet.thucbims.github.io.git
