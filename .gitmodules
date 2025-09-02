@@ -4,3 +4,6 @@
 [submodule "bimnet"]
 	path = bimnet
 	url = https://github.com/THUCBIMS/bimnet.thucbims.github.io.git
+[submodule "portal"]
+	path = portal
+	url = https://github.com/THUCBIMS/portal.thucbims.github.io
